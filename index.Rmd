@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About Me"
 site: distill::distill_website
 ---
 
@@ -17,7 +17,7 @@ I'm a PhD student studying fire ecology and ecological forestry in the Harvey La
 
 In my personal time I enjoy rock climbing, snowboarding, birding, and playing guitar.
 
-# Academic Interests
+# Interests
 - Ecological Forestry
 - Fire Ecology
 - Landscape Ecology
