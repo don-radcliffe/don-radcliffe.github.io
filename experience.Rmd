@@ -7,26 +7,26 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Natural Resources
+## Natural Resources  
 
-**Forestry Technician (Silviculture)**
-US Forest Service
-Eureka, MT
-May 2014 - November 2015
+**Forestry Technician (Silviculture)**  
+US Forest Service  
+Eureka, MT  
+May 2014 - November 2015  
 
-**Forest Policy Intern**
-Society of American Foresters
-Bethesda, MD
-January 2017-May 2017
+**Forest Policy Intern**  
+Society of American Foresters  
+Bethesda, MD  
+January 2017-May 2017  
 
-**Field Technician**
-Kruger Labs, University of Wisconsin - Madison
-Winter, Wisconsin
-January 2013-August 2013
+**Field Technician**  
+Kruger Labs, University of Wisconsin - Madison  
+Winter, Wisconsin  
+January 2013-August 2013  
 
-## Other
+## Other  
 
-**Project Manager**
-Hoff Construction
-Barneveld, Wisconsin
-March 2016-January 2017
+**Project Manager**  
+Hoff Construction  
+Barneveld, Wisconsin  
+March 2016-January 2017  
