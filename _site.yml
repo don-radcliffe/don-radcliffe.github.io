@@ -1,0 +1,25 @@
+name: "Distill"
+title: "Don Radcliffe"
+description: |
+  "Personal website for Don Radcliffe"
+output_dir: "_site"
+navbar:
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Education"
+      href: education.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Contact"
+      href: contact.html
+  right:
+    - icon: fa fa-github
+      href: https://github.com/don-radcliffe
+    - icon: fa fa-twitter
+      href: https://twitter.com/don_c_radcliffe
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/don-radcliffe-aa670b72/
+output: distill::distill_article

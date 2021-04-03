@@ -1,0 +1,47 @@
+---
+title: "Publications"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Academic
+
+Lolya LM, Matthews SM, **Radcliffe DC**, Karns GR “Assessing Avian Responses to Habitat Management Along Pipeline Right-of-ways in Eastern Ohio.” Manuscript in Review, *Environmental Management*. 
+
+**Radcliffe DC**, Hix DM, Matthews SM 2021. “Predisposing factors’ effects on mortality of oak (Quercus) and hickory (Carya) species in mature forests undergoing mesophication in Appalachian Ohio.”
+*Forest Ecosystems* 8:7. https://link.springer.com/article/10.1186/s40663-021-00286-z 
+
+**Radcliffe DC**, Matthews SN, Hix DM 2020. Beyond oak regeneration: modelling mesophytic sapling density drivers along topographic, edaphic, and stand structural gradients in mature oak-dominated forests of Appalachian Ohio. *Canadian Journal Forest Research* 50:1215–1227. https://doi.org/10.1139/cjfr-2020-0111
+
+## Selected Journalistic
+
+**Radcliffe DC** 2018. “Millennial employees and rural places: a millennial forester’s thoughts about increasing young employee recruitment and retention in the National Forest System.” In: Wilent, S. (editor). "193 Million Acres: Towards a Healthier and More Resilient Forest Service." Society of American Foresters, Bethesda, MD: 409-437 (book chapter).
+
+**Radcliffe DC** 2019. “To talk with young adults about forestry, try inspiring with the big picture.” The
+*Forestry Source*, 24(9): 7, 23.
+
+**Radcliffe DC** 2019. “Many Wisconsin oak stands are aging, potentially losing value from stem decay.”
+Forest Data Network (online).
+
+**Radcliffe DC** 2018. “Oak and ash veneer prices fall due to threat of tariffs, sugar maple veneer prices hold steady.” Forest Data Network (online).
+
+**Radcliffe DC** 2017. “Montana forest collaboration works to build trust.” *The Forestry Source*, 22(4):1, 14-15.
+
+**Radcliffe DC** 2017. “Timber Innovation Act introduced (again), with bipartisan support.” *The Forestry Source*, 22(5): 19.
+
+**Radcliffe DC** 2017. “Baltimore aims for 40% tree canopy: a case study in urban forestry methods and an urban role for the US Forest Service.” *The Forestry Source*, 22(6): 1, 6-7.
+
+**Radcliffe DC** 2014. “Readying communities for rising seas.” *In Common*, Spring/Summer 2014: 23.
+
+**Radcliffe DC** 2014. “Early agriculture drove global climate change, research shows.” Nelson Institute for Environmental Studies (online news).
+
+**Radcliffe DC** 2014. “Swarm of discoveries: Wisconsin insect collection one of the best.” Nelson Institute for Environmental Studies (online news).
+
+**Radcliffe DC** 2014. “Tribal Youth Media Project yields movies that matter.” Nelson Institute for Environmental Studies (online news).
+
+**Radcliffe DC** 2014. “Monkeys may be future model for Ritalin-ADHD studies.” *Daily Cardinal*, 123(64): 8.
+
+**Radcliffe DC**, Spike J. 2013. “UW challenges invasive species paradigm.” *Daily Cardinal* (online news). 
