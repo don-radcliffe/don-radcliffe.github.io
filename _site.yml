@@ -2,7 +2,7 @@ name: "Distill"
 title: "Don Radcliffe"
 description: |
   "Personal website for Don Radcliffe"
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   left:
     - text: "About"
