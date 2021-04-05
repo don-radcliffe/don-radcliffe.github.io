@@ -1,7 +1,8 @@
 ---
-title: "About Me"
+title: "Don Radcliffe"
 output: 
   distill::distill_article
+---
 ---
 
 ```{r setup, include=FALSE}
@@ -14,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Biography
 
-I'm a PhD student studying fire ecology and ecological forestry in the Harvey Lab at the University of Washington.  I've worked in many aspects of forestry and forest ecology, including forest management, policy, journalism, and science.  I'm broadly interested in tradeoffs and synergies between biodiversity and economic needs in forested regions.  For my PhD I'm studying multiple aspects of fuels reduction treatments like thinning, prescribed burning, and wildfires, including long term fuels dyanamics and bird responses.
+I'm a PhD student studying forest ecology and ecological forestry in the Harvey Lab at the University of Washington.  I've worked in many aspects of forestry and forest ecology, including forest management, policy, journalism, and science.  I'm broadly interested in tradeoffs and synergies between biodiversity and economic needs in forested regions.  For my PhD I'm studying multiple aspects of fuels reduction treatments like thinning, prescribed burning, and wildfires, including long term fuels dyanamics, stand structural heterogeniety, and bird responses.
 
 In my personal time I enjoy rock climbing, snowboarding, birding, and playing guitar.
 
@@ -23,5 +24,7 @@ In my personal time I enjoy rock climbing, snowboarding, birding, and playing gu
 - Fire Ecology
 - Landscape Ecology
 
-![](photos/headshot.jpg)
-<img src="headshot.jpg" width="50"/>
+```{r, out.width = "300px", echo = FALSE}
+knitr::include_graphics("photos/headshot.jpg")
+```
+
