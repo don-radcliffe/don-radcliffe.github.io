@@ -22,7 +22,7 @@ In my personal time I enjoy rock climbing, snowboarding, birding, and playing gu
 - Fire Ecology
 - Landscape Ecology
 
-```{r, out.width = "300px", echo = FALSE}
+```{r, out.width = "400px", echo = FALSE}
 knitr::include_graphics("photos/headshot.jpg")
 ```
 
