@@ -9,6 +9,8 @@ navbar:
       href: index.html
     - text: "Publications"
       href: publications.html
+    - text: "Projects"
+      href: projects.html
     - text: "Education"
       href: education.html
     - text: "Experience"
