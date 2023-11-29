@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Academic
 
-Lolya LM, Matthews SM, **Radcliffe DC**, Karns GR “Assessing Avian Responses to Habitat Management Along Pipeline Right-of-ways in Eastern Ohio.” Manuscript in Review, *Environmental Management*. 
+**Radcliffe DC**, Bakker JD, Churchill DC, Alvarado EC, Peterson DW, Laughlin MM, Harvey BJ 2024. "How are long-term stand structure, fuel profiles, and potential fire behavior affected by fuel treatment type and intensity in Interior Pacific Northwest Forests?" *Forest Ecology and Management.*
 
 **Radcliffe DC**, Hix DM, Matthews SM 2021. “Predisposing factors’ effects on mortality of oak (Quercus) and hickory (Carya) species in mature forests undergoing mesophication in Appalachian Ohio.”
 *Forest Ecosystems* 8:7. https://link.springer.com/article/10.1186/s40663-021-00286-z 
