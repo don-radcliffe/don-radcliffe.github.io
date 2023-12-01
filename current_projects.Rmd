@@ -1,0 +1,33 @@
+---
+title: "Current Projects"
+output: 
+  distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Fuel treatment longevity in historically frequent-fire forests
+
+Fuel treatments such as prescribed burning and forest thinning can moderate wildfire severity and restore stand structure in historically frequent-fire forests of interior western North America, but the long-term dynamics of fuel treatments are not as well studied as short-term dynamics.  This knowledge gap about long-term fuel treatment dynamics could lead to imprecision and inefficiency in planning fuel treatment maintenance. 
+
+We are working on several projects to improve understanding of long-term treatment dynamics, in collaboration with researchers at the Washington Department of Natural Resources and the US Forest Service.  Our work includes two literature reviews and three field datasets.  The literature reviews include a conceptual paper exploring opportunities for expanding the scope of longevity research and increasing precision of longevity estimates through expansion of conceptual frameworks and study designs used by researchers, and an internal report to the Washington Department of Natural Resources on estimating fuel treatment longevity.  Our field datasets include three sites in Washington State, which we are using to explore the effects of pre-treatment conditions, site productivity, and treatment intensity on long-term treatment outcomes.
+
+This work is funded by the McIntire-Stennis Program, the Washington Department of Natural Resources, and the Joint Fire Sciences Program. 
+
+**Publications:**
+
+* Radcliffe D.C., Bakker J.D., Churchill D.J., Alvarado E.C., Peterson D.W., Laughlin M.M., Harvey B.J. 2024.  How are long-term stand structure, fuel profiles, and potential fire behavior affected by fuel treatment type and intensity in Interior Pacific Northwest
+forests? Forest Ecology and Management. 
+
+
+## Fuel treatment impacts on avian communities in historically frequent-fire forests
+
+Forest managers are tasked with meeting many, sometimes conflicting natural resource management goals on a single landscape.  In forests of interior western North America, understanding biodiversity patterns is crucial for ensuring that focus on wildfire mitigation goals don't overtake other considerations and result in unfavorable ecological outcomes. Landscape ecology, with its explicit focus on spatial patterns, is a framework that often supports solutions to complicated multiple-objective management problems.
+
+We are using landscape ecology principles to study how fuel treatments affect abundance and diversity of avian communities, which are a common if imperfect indicator of overall biodiversity.  We are investigating 1) edge effects of treatment boundaries on occupancy of habitat specialists and generalists and 2) effects of the amount of treatment in a landscape on occupancy of habitat specialists and generalists.  We have sampled a series of point counts in historically frequent-fire forests in the Blue Mountains of Northeast Oregon, and analyses of these data are ongoing. This work may help inform multiple-objective management of historically frequent fire forests. 
+
+This work is funded by the Joint Fire Sciences Program Graduate Research Innovation award. 
+
+These projects are being conducted for my PhD at the University of Washington, under the advisement of Brian Harvey.

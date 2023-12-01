@@ -1,0 +1,13 @@
+---
+title: "Grants"
+output: 
+  distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* 2024 – 2026: Joint Fire Science Program: Fuel treatment longevity in the interior Pacific Northwest. 	($481K – contributor: primary writer and study designer.  Will fund postdoctoral fellowship).
+
+* 2022 - 2024: Joint Fire Science Program Graduate Innovation Award: Effects of fuel treatment 	configuration on avian diversity in western dry forests. ($25K – co-PI, with adviser Brian Harvey)

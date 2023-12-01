@@ -1,0 +1,23 @@
+---
+title: "Past projects"
+output: 
+  distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Mesophication dynamics in Central Hardwood ecosystems
+
+Across the Central Hardwoods region of the Eastern United States, oak (*Quercus* spp.) and hickory (*Carya* spp.) dominated forests are being replaced by shade-tolerant maple (*Acer* spp.) and American beech (*Fagus grandifolia*) due to fire suppression and increasing precipitation.  This process is termed 'mesophication'.  Mesophication is self-reinforcing, and has negative consequences for forest biodiversity. Much research on mesophication has focused on reversing its effects and restoring oak/hickory forests.  Our work focused on mesophication dynamics in un-disturbed forests, to help managers better plan where on the landscape to conduct treatments.  
+
+Specifically, we investigated how gradients in topographic, edaphic, and stand-structural affected regeneration and mortality dynamics in Appalachian Ohio.  First, we explored regeneration of the three most dominant shade-tolerant species in our study area: sugar maple (*Acer saccharum*), red maple (*Acer rubrum*), and American beech.  Our models showed that sugar maple was strongly associated with high pH soils and red maple was strongly associated with low pH soils. Additionally, red maple was associated with upper slope positions and older stands, while American beech was associated with lower slopes, northeasterly aspects, and northeast-facing upper slopes.  American beech sapling density doubled between the two sampling periods, while densities of both maple species declined by half.Second, we explored mortality patterns.  Second, we explored mortality of the most common oak and hickory species in our study area: white oak (*Quercus alba*), chestnut oak (*Quercus montana*), northern red oak (*Quercus rubra*), black oak (*Quercus velutina*), scarlet oak (*Quercus coccinea*), and pignut hickory (*Carya glabra*).  In our models, northern red oak mortality was associated with more mesic slope positions, shallower solums, more acidic soils, and older stand ages. Pignut hickory and chestnut oak mortality rates were associated with higher basal areas on the plot, while white oak mortality showed the opposite pattern. Our data suggested that red oak subgenus trees in mature forests of our area will become increasingly uncommon relative to white oak subgenus trees, as the result of higher mortality rates likely related to the shorter lifespans of these species.
+
+This work was conducted for my master's thesis at Ohio State University, under the advisement of Stephen Matthews and David Hix. 
+
+**Publications**
+
+**Radcliffe DC**, Hix DM, Matthews SM 2021. “Predisposing factors’ effects on mortality of oak (Quercus) and hickory (Carya) species in mature forests undergoing mesophication in Appalachian Ohio.” Forest Ecosystems 8:7. https://link.springer.com/article/10.1186/s40663-021-00286-z
+
+**Radcliffe DC**, Matthews SN, Hix DM 2020. Beyond oak regeneration: modelling mesophytic sapling density drivers along topographic, edaphic, and stand structural gradients in mature oak-dominated forests of Appalachian Ohio. Canadian Journal Forest Research 50:1215–1227. https://doi.org/10.1139/cjfr-2020-0111
