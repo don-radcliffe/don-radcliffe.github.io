@@ -9,9 +9,9 @@ navbar:
       href: index.html
     - text: "Publications"
       href: publications.html
-    - text: "Current Projects"
+    - text: "Current projects"
       href: current_projects.html
-    - text: "Past Projects"
+    - text: "Past projects"
       href: past_projects.html
     - text: "Grants"
       href: grants.html
